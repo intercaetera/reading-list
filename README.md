@@ -12,11 +12,11 @@ Emoji legend:
 - :green_book: :blue_book: :orange_book: - *Status:* Finished, Reading, Not Started
 
 ## The List
-
-- 	:uk:		:scroll:	:bulb:		:horse:		:orange_book:	— C.S. Lewis, *Mere Christianity*
-- 	:uk:		:scroll:	:briefcase:	:horse:		:orange_book:	— Patrick Lencioni, *The Five Dysfunctions of a Team*
+-	:poland:	:scroll:	:bulb:		:horse:		:orange_book:	- Thomas à Kempis, *The Imitation of Christ*
+- 	:uk:		:scroll:	:bulb:		:horse:		:green_book:	— C.S. Lewis, *Mere Christianity*
+- 	:uk:		:scroll:	:briefcase:	:horse:		:green_book:	— Patrick Lencioni, *The Five Dysfunctions of a Team*
 - 	:uk:		:tv:		:bulb:		:horse:		:green_book:	— Mencius Moldbug, *A Gentle Introduction to Unqualified Reservations*
-- 	:uk:		:scroll:	:briefcase:	:horse:		:blue_book:	— Nassim Nicholas Taleb, *The Black Swan*
+- 	:uk:		:scroll:	:briefcase:	:horse:		:green_book:	— Nassim Nicholas Taleb, *The Black Swan*
 - 	:uk:		:tv:		:briefcase:	:horse:		:blue_book:	— Dave Thomas, *Programming Elixir*
 - 	:uk:		:scroll:	:briefcase:	:horse:		:green_book:	— Andrew Hunt, Dave Thomas, *The Pragmatic Programmer*
 - 	:uk:		:scroll:	:bulb:		:unicorn:	:green_book:	— Oscar Wilde, *The Picture of Dorian Gray*

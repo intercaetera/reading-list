@@ -13,9 +13,9 @@ Emoji legend:
 
 ## The List
 -	:poland:	:scroll:	:bulb:		:unicorn:	:orange_book:	— Alexandre Dumas, *The Count of Monte Cristo*
--	:uk:		:scroll:	:briefcase:	:horse:		:orange_book:	— Nassim Nicholas Taleb, *Antifragile*      
--  	:poland:	:scroll:	:bulb:		:horse:		:blue_book:	— Fyodor Dostoevsky, *The House of the Dead*
--	:poland:	:scroll:	:bulb:		:horse:		:blue_book:	— Thomas à Kempis, *The Imitation of Christ*
+-	:uk:		:scroll:	:briefcase:	:horse:		:blue_book:	— Nassim Nicholas Taleb, *Antifragile*      
+-  	:poland:	:scroll:	:bulb:		:horse:		:green_book:	— Fyodor Dostoevsky, *The House of the Dead*
+-	:poland:	:scroll:	:bulb:		:horse:		:green_book:	— Thomas à Kempis, *The Imitation of Christ*
 - 	:uk:		:scroll:	:bulb:		:horse:		:green_book:	— C.S. Lewis, *Mere Christianity*
 - 	:uk:		:scroll:	:briefcase:	:horse:		:green_book:	— Patrick Lencioni, *The Five Dysfunctions of a Team*
 - 	:uk:		:tv:		:bulb:		:horse:		:green_book:	— Mencius Moldbug, *A Gentle Introduction to Unqualified Reservations*

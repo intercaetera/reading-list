@@ -12,8 +12,10 @@ Emoji legend:
 - :green_book: :blue_book: :orange_book: - *Status:* Finished, Reading, Not Started
 
 ## The List
--	:poland:	:scroll:	:bulb:		:unicorn:	:orange_book:	— Alexandre Dumas, *The Count of Monte Cristo*
--	:uk:		:scroll:	:briefcase:	:horse:		:blue_book:	— Nassim Nicholas Taleb, *Antifragile*      
+-	:uk:		:scroll:	:bulb:		:horse:		:orange_book:	— Augustine, *Confessions*
+-	:uk:		:scroll:	:bulb:		:unicorn:	:blue_book:	— Walter M. Miller, Jr., *A Canticle For Leibowitz*
+-	:poland:	:scroll:	:bulb:		:unicorn:	:green_book:	— Alexandre Dumas, *The Count of Monte Cristo*
+-	:uk:		:scroll:	:briefcase:	:horse:		:green_book:	— Nassim Nicholas Taleb, *Antifragile*      
 -  	:poland:	:scroll:	:bulb:		:horse:		:green_book:	— Fyodor Dostoevsky, *The House of the Dead*
 -	:poland:	:scroll:	:bulb:		:horse:		:green_book:	— Thomas à Kempis, *The Imitation of Christ*
 - 	:uk:		:scroll:	:bulb:		:horse:		:green_book:	— C.S. Lewis, *Mere Christianity*
@@ -23,7 +25,7 @@ Emoji legend:
 - 	:uk:		:tv:		:briefcase:	:horse:		:blue_book:	— Dave Thomas, *Programming Elixir*
 - 	:uk:		:scroll:	:briefcase:	:horse:		:green_book:	— Andrew Hunt, Dave Thomas, *The Pragmatic Programmer*
 - 	:uk:		:scroll:	:bulb:		:unicorn:	:green_book:	— Oscar Wilde, *The Picture of Dorian Gray*
-- 	:poland:	:scroll:	:bulb:		:horse:		:blue_book:	— Plato, *The Republic*
+- 	:poland:	:scroll:	:bulb:		:horse:		:green_book:	— Plato, *The Republic*
 - 	:poland:	:scroll:	:bulb:		:horse:		:green_book:	— Plato, *Lysis*
 - 	:poland:	:scroll:	:bulb:		:unicorn:	:green_book:	— Robert M. Pirsig, *Zen and the Art of Motorcycle Maintenance*
 - 	:uk:		:scroll:	:briefcase:	:horse:		:green_book:	— Robert C. Martin, *Clean Architecture*

@@ -13,7 +13,7 @@ Emoji legend:
 
 ## The List
 -	:uk:		:scroll:	:bulb:		:horse:		:orange_book:	— Boethius, *The Consolation of Philosophy*
--	:uk:		:scroll:	:briefcase:	:horse:		:orange_book:	— Georges Renard, *Guilds in the Middle Ages*
+-	:uk:		:scroll:	:briefcase:	:horse:		:blue_book:	— Georges Renard, *Guilds in the Middle Ages*
 -	:uk:		:scroll:	:bulb:		:horse:		:orange_book:	— Augustine, *Confessions*
 -	:poland:	:scroll:	:bulb:		:unicorn:	:blue_book:	— Jacek Dukaj, *Inne pieśni* (*Other Songs*)
 -	:uk:		:scroll:	:bulb:		:unicorn:	:green_book:	— Walter M. Miller, Jr., *A Canticle For Leibowitz*

@@ -12,8 +12,11 @@ Emoji legend:
 - :green_book: :blue_book: :orange_book: - *Status:* Finished, Reading, Not Started
 
 ## The List
+-	:uk:		:scroll:	:bulb:		:horse:		:orange_book:	— Boethius, *The Consolation of Philosophy*
+-	:uk:		:scroll:	:briefcase:	:horse:		:orange_book:	— Georges Renard, *Guilds in the Middle Ages*
 -	:uk:		:scroll:	:bulb:		:horse:		:orange_book:	— Augustine, *Confessions*
--	:uk:		:scroll:	:bulb:		:unicorn:	:blue_book:	— Walter M. Miller, Jr., *A Canticle For Leibowitz*
+-	:poland:	:scroll:	:bulb:		:unicorn:	:blue_book:	— Jacek Dukaj, *Inne pieśni* (*Other Songs*)
+-	:uk:		:scroll:	:bulb:		:unicorn:	:green_book:	— Walter M. Miller, Jr., *A Canticle For Leibowitz*
 -	:poland:	:scroll:	:bulb:		:unicorn:	:green_book:	— Alexandre Dumas, *The Count of Monte Cristo*
 -	:uk:		:scroll:	:briefcase:	:horse:		:green_book:	— Nassim Nicholas Taleb, *Antifragile*      
 -  	:poland:	:scroll:	:bulb:		:horse:		:green_book:	— Fyodor Dostoevsky, *The House of the Dead*
@@ -22,7 +25,7 @@ Emoji legend:
 - 	:uk:		:scroll:	:briefcase:	:horse:		:green_book:	— Patrick Lencioni, *The Five Dysfunctions of a Team*
 - 	:uk:		:tv:		:bulb:		:horse:		:green_book:	— Mencius Moldbug, *A Gentle Introduction to Unqualified Reservations*
 - 	:uk:		:scroll:	:briefcase:	:horse:		:green_book:	— Nassim Nicholas Taleb, *The Black Swan*
-- 	:uk:		:tv:		:briefcase:	:horse:		:blue_book:	— Dave Thomas, *Programming Elixir*
+- 	:uk:		:tv:		:briefcase:	:horse:		:green_book:	— Dave Thomas, *Programming Elixir*
 - 	:uk:		:scroll:	:briefcase:	:horse:		:green_book:	— Andrew Hunt, Dave Thomas, *The Pragmatic Programmer*
 - 	:uk:		:scroll:	:bulb:		:unicorn:	:green_book:	— Oscar Wilde, *The Picture of Dorian Gray*
 - 	:poland:	:scroll:	:bulb:		:horse:		:green_book:	— Plato, *The Republic*

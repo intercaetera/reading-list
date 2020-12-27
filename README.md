@@ -12,10 +12,12 @@ Emoji legend:
 - :green_book: :blue_book: :orange_book: - *Status:* Finished, Reading, Not Started
 
 ## The List
--	:uk:		:scroll:	:bulb:		:horse:		:orange_book:	— Boethius, *The Consolation of Philosophy*
--	:uk:		:tv:		:briefcase:	:horse:		:green_book:	— Georges Renard, *Guilds in the Middle Ages*
+-	:poland:	:scroll:	:briefcase:	:horse:		:orange_book:	— Włodzimierz Zatorski, *Commentary to the Rule of Saint Benedict*
 -	:uk:		:scroll:	:bulb:		:horse:		:orange_book:	— Augustine, *Confessions*
--	:poland:	:scroll:	:bulb:		:unicorn:	:blue_book:	— Jacek Dukaj, *Inne pieśni* (*Other Songs*)
+-	:poland:	:scroll:	:briefcase:	:horse:		:blue_book:	— Wil Derkse, *The Rule of Benedict for Beginners*
+-	:uk:		:scroll:	:bulb:		:horse:		:blue_book:	— Boethius, *The Consolation of Philosophy*
+-	:uk:		:tv:		:briefcase:	:horse:		:green_book:	— Georges Renard, *Guilds in the Middle Ages*
+-	:poland:	:scroll:	:bulb:		:unicorn:	:green_book:	— Jacek Dukaj, *Inne pieśni* (*Other Songs*)
 -	:uk:		:scroll:	:bulb:		:unicorn:	:green_book:	— Walter M. Miller, Jr., *A Canticle For Leibowitz*
 -	:poland:	:scroll:	:bulb:		:unicorn:	:green_book:	— Alexandre Dumas, *The Count of Monte Cristo*
 -	:uk:		:scroll:	:briefcase:	:horse:		:green_book:	— Nassim Nicholas Taleb, *Antifragile*      

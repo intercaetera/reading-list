@@ -12,7 +12,9 @@ Emoji legend:
 - :green_book: :blue_book: :orange_book: - *Status:* Finished, Reading, Not Started
 
 ## The List
--	:poland:	:scroll:	:bulb:		:horse:		:orange_book:	— Aleksander Krawczuk, *Poczet cesarzy bizantyjskich* (*Enumeration of Byzantine Emperors*)
+-	:poland:	:scroll:	:bulb:		:unicorn:	:orange_book:	— Ayn Rand, *Atlas Shrugged*
+-	:uk:		:scroll:	:briefcase:	:horse:		:orange_book:	— Benjamin Graham, *The Intelligent Investor*
+-	:poland:	:scroll:	:bulb:		:horse:		:blue_book:	— Aleksander Krawczuk, *Poczet cesarzy bizantyjskich* (*Enumeration of Byzantine Emperors*)
 -	:poland:	:scroll:	:briefcase:	:horse:		:blue_book:	— Włodzimierz Zatorski, *Commentary to the Rule of Saint Benedict*
 -	:uk:		:scroll:	:bulb:		:horse:		:orange_book:	— Augustine, *Confessions*
 -	:poland:	:scroll:	:briefcase:	:horse:		:green_book:	— Wil Derkse, *The Rule of Benedict for Beginners*

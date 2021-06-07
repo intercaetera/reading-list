@@ -5,13 +5,16 @@ This is a list of all the books I've read since 2018 (that's roughly when I star
 The list is in reverse chronological order (the books I read most recenty are at the top).
 
 Emoji legend:
-- :uk: :poland: - *Language:* English, Polish
-- :scroll: :tv: - *Medium:* Paper, Ebook
+- :uk: :poland: :vatican_city: - *Language:* English, Polish, Latin
+- :scroll: :tv: :headphones: - *Medium:* Paper, Ebook, Audiobook
 - :bulb: :briefcase: - *Category:* Interests, Career
 - :unicorn: :horse: - *Genre:* Fiction, Non-fiction
 - :green_book: :blue_book: :orange_book: - *Status:* Finished, Reading, Not Started
 
 ## The List
+-	:vatican_city:	:tv:		:bulb:		:horse:		:blue_book:	— Hans H. Ørberg, *Lingua Latina Per Se Illustrata*
+-	:uk:		:scroll:	:briefcase:	:horse:		:orange_book:	— Paul Jarvis, *Company of One*
+-	:uk:		:headphones:	:bulb:		:horse:		:blue_book:	— G. K. Chesterton, *Orthodoxy*
 -	:poland:	:scroll:	:bulb:		:unicorn:	:blue_book:	— Ayn Rand, *Atlas Shrugged*
 -	:uk:		:scroll:	:briefcase:	:horse:		:blue_book:	— Benjamin Graham, *The Intelligent Investor*
 -	:poland:	:scroll:	:bulb:		:horse:		:green_book:	— Aleksander Krawczuk, *Poczet cesarzy bizantyjskich* (*Enumeration of Byzantine Emperors*)

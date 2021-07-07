@@ -12,11 +12,12 @@ Emoji legend:
 - :green_book: :blue_book: :orange_book: - *Status:* Finished, Reading, Not Started
 
 ## The List
+-	:uk:		:tv:		:briefcase:	:horse:		:blue_book:	— Saša Jurić, *Elixir in Action*
 -	:vatican_city:	:tv:		:bulb:		:horse:		:blue_book:	— Hans H. Ørberg, *Lingua Latina Per Se Illustrata*
--	:uk:		:scroll:	:briefcase:	:horse:		:orange_book:	— Paul Jarvis, *Company of One*
+-	:uk:		:scroll:	:briefcase:	:horse:		:blue_book:	— Paul Jarvis, *Company of One*
 -	:uk:		:headphones:	:bulb:		:horse:		:blue_book:	— G. K. Chesterton, *Orthodoxy*
--	:poland:	:scroll:	:bulb:		:unicorn:	:blue_book:	— Ayn Rand, *Atlas Shrugged*
--	:uk:		:scroll:	:briefcase:	:horse:		:blue_book:	— Benjamin Graham, *The Intelligent Investor*
+-	:poland:	:scroll:	:bulb:		:unicorn:	:green_book:	— Ayn Rand, *Atlas Shrugged*
+-	:uk:		:scroll:	:briefcase:	:horse:		:green_book:	— Benjamin Graham, *The Intelligent Investor*
 -	:poland:	:scroll:	:bulb:		:horse:		:green_book:	— Aleksander Krawczuk, *Poczet cesarzy bizantyjskich* (*Enumeration of Byzantine Emperors*)
 -	:poland:	:scroll:	:briefcase:	:horse:		:green_book:	— Włodzimierz Zatorski, *Commentary to the Rule of Saint Benedict*
 -	:uk:		:scroll:	:bulb:		:horse:		:orange_book:	— Augustine, *Confessions*
